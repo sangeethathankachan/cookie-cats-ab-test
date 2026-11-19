@@ -11,9 +11,9 @@ Analysis of an A/B test on the mobile game Cookie Cats (90,189 players): does mo
 
 ## Charts
 
-![7-day retention by gate](images/retention_by_gate.png)
-![Distribution of game rounds](images/game_rounds_distribution.png)
-![Retention by segment](images/retention_by_segment.png)
+![7-day retention by gate](retention_by_gate.png)
+![Distribution of game rounds](game_rounds_distribution.png)
+![Retention by segment](retention_by_segment.png)
 
 ## Method
 
