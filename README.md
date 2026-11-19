@@ -26,7 +26,7 @@ Analysis of an A/B test on the mobile game Cookie Cats (90,189 players): does mo
 ## Files
 
 - `cookie_cats_ab_test.ipynb`: full analysis with code, results and commentary
-- `images/`: charts used in this README
+
 
 ## Run it yourself
 
